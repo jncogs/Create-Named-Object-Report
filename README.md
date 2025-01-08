@@ -50,7 +50,7 @@ There are two methods of installation, direct download of the plug-in or through
 
 ### Direct Download:
 
-1. Download [source plug-in file](Create%20Named%20Object%Report.vsm))
+1. Download [source plug-in file](Create%20Named%20Object%20Report.vsm))
 2. Place downloaded file inside the **Vectorworks User Folder** within the **Plug-ins** directory
 3. Restart Vectorworks
 
